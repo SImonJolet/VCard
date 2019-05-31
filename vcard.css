@@ -24,3 +24,16 @@ body{
 .Nom{
   font-size: 50pt;
 }
+.Texte{
+  padding-top: 15pt;
+  border: 5px solid green;
+  text-align: right;
+  padding-right: 10px;
+  font-size: 12pt;
+}
+.bouton{
+  padding-top: 15pt;
+  border: 5px solid grey;
+  text-align: center;
+  padding-right: 50pt;
+}
