@@ -9,6 +9,7 @@ body{
   margin: auto;
   width: 66%;
   margin-top: 60px;
+  position: relative;
 
 }
 .photo-info{
