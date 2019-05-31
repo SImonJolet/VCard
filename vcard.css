@@ -6,6 +6,10 @@ body{
   justify-content: center;
   align-items: center;
 }
+
+#wrapper{
+  min-height: 100vh;
+}
 #linear-gradient{
   background: linear-gradient(to top right, #070261, #CECCF4);
 }
