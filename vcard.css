@@ -2,9 +2,25 @@ body{
   font-family: 'Inconsolata', monospace;
 }
 .vcard{
-  border: 10 px solid black;
+  border: 10px solid black;
   margin: auto;
   width: 66%;
-  padding-top: 200px;
+  margin-top: 100px;
 
+}
+.photo-info{
+  display: flex;
+  border: 10px solid yellow;
+}
+.photo{
+  border:5px solid blue;
+  border-radius: 100px;
+}
+.info{
+  border: 5px solid red;
+  padding-left: 50pt;
+  font-size: 20pt;
+}
+.Nom{
+  font-size: 50pt;
 }
