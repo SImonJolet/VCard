@@ -1,6 +1,9 @@
 body{
   font-family: 'Inconsolata', monospace;
   background: url('https://newsroom.siliconslopes.com/content/images/2018/10/code.jpg');
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 #linear-gradient{
   background: linear-gradient(to top right, #070261, #CECCF4);
@@ -9,8 +12,6 @@ body{
   margin: auto;
   width: 66%;
   margin-top: 60px;
-  padding: auto;
-
 }
 .photo-info{
   display: flex;
